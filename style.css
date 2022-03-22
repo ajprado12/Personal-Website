@@ -11,3 +11,9 @@ p {
 body {
   background-color: lightgray;
 }
+
+.container {
+  text-align: left;
+  font-size: x-large;
+  width: 100%;
+}
